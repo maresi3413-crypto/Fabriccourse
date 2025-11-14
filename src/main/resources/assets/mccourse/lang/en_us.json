@@ -1,4 +1,9 @@
 {
   "item.mccourse.fluorite": "Fluorite",
-  "item.mccourse.raw_fluorite": "Raw Fluorite"
+  "item.mccourse.raw_fluorite": "Raw Fluorite",
+
+  "block.mccourse.fluorite_block": "Fluorite Block",
+
+  "itemgroup.fluorite": "Fluorite Items",
+  "itemgroup.fluorite_blocks": "Fluorite Blocks"
 }
